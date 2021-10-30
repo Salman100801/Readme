@@ -23,8 +23,6 @@ Holding Diploma Degree in Information Technology
 
 [<img align="left" alt="oracle" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />][oracle]
 
-[<img align="left" alt="oracle" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />][oracle]
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VScode]
 
 [<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][HTML5]
@@ -55,9 +53,11 @@ Holding Diploma Degree in Information Technology
 ## Projects
 ### SfolyWeb
 A homepage of a Olympiad exam website
-<img align="left" alt="sfolyWeb | Screenshot 1" width="150px" src="D:\GIT\ReadMe\Images\Screenshot (28).png" />
-<img align="left" alt="sfolyWeb | Screenshot 2" width="150px" src="D:\GIT\ReadMe\Images\Screenshot (29).png" />
-<img align="left" alt="sfolyWeb | Screenshot 3" width="150px" src="D:\GIT\ReadMe\Images\Screenshot (30).png" />
+<img align="left" alt="sfolyWeb | Screenshot 1" width="150px" src="https://github.com/Salman100801/Readme/blob/master/Images/Screenshot%20(28).png" />
+<img align="left" alt="sfolyWeb | Screenshot 2" width="150px" src="https://github.com/Salman100801/Readme/blob/master/Images/Screenshot%20(29).png" />
+<img align="left" alt="sfolyWeb | Screenshot 3" width="150px" src="https://github.com/Salman100801/Readme/blob/master/Images/Screenshot%20(30).png" />
+<br>
+</br>
 [sfolyWeb](https://github.com/Salman100801/sfolyWeb.git)
 
 ---
