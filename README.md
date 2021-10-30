@@ -1,15 +1,15 @@
-### 👋 Hi, I’m Salman Bagwan
+## 👋 Hi, I’m Salman Bagwan
 - 👨‍💻 I’m a future computer engineer.
-- 👀 I’m interested in computers and am learning everything about Computers.
-- 🌱 I’m currently learning everything that will make me the best computer engineer.
-
+- 💾 I’m interested in computers and am learning to work on live projects.
+- 💻 I’m currently learning everything that will make me the best computer engineer.
+- ⚽ I am also a footballer(Pro).
 
 ## Education
 ### Sinhgad Institute of Technology and Science
-Pursuing Bachelors Degree in Computers.
+Pursuing Bachelors Degree in Computers.(TE)
 
 ### MAEER's, MIT Polytechnic, Pune
-Holding Diploma Degree in Information Technology
+Completed Diploma in Information Technology with an aggregate score 91.13%
 
 
 ## Languages and Tools
@@ -56,10 +56,16 @@ A homepage of a Olympiad exam website
 <img align="left" alt="sfolyWeb | Screenshot 3" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(30).png" /><br><br><br><br>
 
 
-## 📫 You can reach me on
-[<img align="left" alt="Salman100801 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Hobbies
+- Learning new things in free time
+- Playing football
+- Hanging out with friends
 
-[<img align="left" alt="Salman100801 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+## 📫 You can reach me on
+[<img align="left" alt="Salman100801 | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Salman100801 | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [c++]: https://www.w3schools.com/CPP/default.asp
 [python]: https://www.python.org/
