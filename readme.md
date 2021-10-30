@@ -3,6 +3,7 @@
 - 👀 I’m interested in computers and am learning everything about Computers.
 - 🌱 I’m currently learning everything that will make me the best computer engineer.
 
+---
 
 ## Education
 ### Sinhgad Institute of Technology and Science
@@ -10,6 +11,8 @@ Pursuing Bachelors Degree in Computers.
 
 ### MAEER's, MIT Polytechnic, Pune
 Holding Diploma Degree in Information Technology
+
+---
 
 ## Languages and Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VScode]
@@ -21,7 +24,11 @@ Holding Diploma Degree in Information Technology
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
-[<img align="left" alt="android" width="26px" src="https://drive.google.com/drive/u/0/my-drive/android-logo.svg" />][android]
+[<img align="left" alt="android" width="26px" src="https://drive.google.com/file/d/1iEPJADXytNY5wRy3hXXDHEkzyB_951cf/view?usp=sharing" />][android]
+<br>
+</br>
+
+---
 
 ## 📫 You can reach me on
 [<img align="left" alt="Salman1000801 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
