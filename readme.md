@@ -53,13 +53,10 @@ Holding Diploma Degree in Information Technology
 ## Projects
 ### SfolyWeb
 A homepage of a Olympiad exam website
-[sfolyWeb](https://github.com/Salman100801/sfolyWeb.git)
-<br><br>
+[sfolyWeb](https://github.com/Salman100801/sfolyWeb.git)<br><br>
 <img align="left" alt="sfolyWeb | Screenshot 1" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(28).png" />
 <img align="left" alt="sfolyWeb | Screenshot 2" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(29).png" />
-<img align="left" alt="sfolyWeb | Screenshot 3" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(30).png" />
-
-
+<img align="left" alt="sfolyWeb | Screenshot 3" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(30).png" /><br><br><br><br>
 
 ---
 
