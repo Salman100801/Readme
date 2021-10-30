@@ -3,7 +3,6 @@
 - 👀 I’m interested in computers and am learning everything about Computers.
 - 🌱 I’m currently learning everything that will make me the best computer engineer.
 
----
 
 ## Education
 ### Sinhgad Institute of Technology and Science
@@ -12,7 +11,6 @@ Pursuing Bachelors Degree in Computers.
 ### MAEER's, MIT Polytechnic, Pune
 Holding Diploma Degree in Information Technology
 
----
 
 ## Languages and Tools
 [<img align="left" alt="python" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
@@ -48,7 +46,6 @@ Holding Diploma Degree in Information Technology
 <br>
 </br>
 
----
 
 ## Projects
 ### SfolyWeb
@@ -58,7 +55,6 @@ A homepage of a Olympiad exam website
 <img align="left" alt="sfolyWeb | Screenshot 2" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(29).png" />
 <img align="left" alt="sfolyWeb | Screenshot 3" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(30).png" /><br><br><br><br>
 
----
 
 ## 📫 You can reach me on
 [<img align="left" alt="Salman100801 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
