@@ -24,7 +24,7 @@ Holding Diploma Degree in Information Technology
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
-[<img align="left" alt="android" width="26px" src="https://uc7f37454ff1b1bcf739b8585248.previews.dropboxusercontent.com/p/orig/ABXK3SPuIf_LwFTeuDwCbzIn_KgegbRk6EaxEHQuTj6nYx72PGfdLJG8WM5uy4DkZtraJuTxhYcB-t7svtN3cI9tXQeAii7afIZGHqH5K454vbUgIwWLEqTrvuEXI1XHAceN71aEKOw3xSlCtnGU7w1WjVjbgFs0O6RCRya4hy6CIf9FB-yVdCiIvITepLEgkAzKzUlxGpBM5KbeExeDasezTeFKhgkjHsy1GMwUpWrcsEmct5vk2ele-CmqGLvX4kbTVa8eINjO-gGdLWYEWgZXZlLDxCKktPQFgjRprsHYThKOab6X2QwaVVWKi8cmCotl_06RESpDm9te8b5DDUayZa2wUNmVlG_V9Xh82WUSpQVuRaXnhb1SvBhWX8o_Zf4o07ZAp-xbKqYsKQz1aLLx/p.svg?fv_content=true&size_mode=5" />][android]
+[<img align="left" alt="android" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v0a713fec70a4b4c54311265d5142e962747a0e45a24063467564a2765c008ac7/android/images/lockup.svg" />][android]
 <br>
 </br>
 
