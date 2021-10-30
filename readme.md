@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Salman Bagwan
-- 👀 I’m interested in Computers.
-- 🌱 I’m currently learning everything that will make me a good engineer.
+### 👋 Hi, I’m Salman Bagwan
+- 👨‍💻 I’m a future computer engineer.
+- 👀 I’m interested in computers and am learning everything about Computers.
+- 🌱 I’m currently learning everything that will make me the best computer engineer.
 
 
 ## Education
@@ -10,8 +11,10 @@ Pursuing Bachelors Degree in Computers.
 ### MAEER's, MIT Polytechnic, Pune
 Holding Diploma Degree in Information Technology
 
+
+
 ## 📫 You can reach me on
-* [linkedIn](https://www.linkedin.com/in/salman-bagwan-95376715b/)
+* [<img align="left" alt"Salman1000801 | LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3WN6RA-1DVlYl3cQ1Woqcz&ust=1635685705493000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjcgJ-a8vMCFQAAAAAdAAAAABAJ" />][linkedin]
 * [Instagram](https://www.instagram.com/salman_bagwan10/)
 
 
