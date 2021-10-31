@@ -2,9 +2,9 @@
 - 👨‍💻 I’m a future computer engineer.
 - 💾 I’m interested in computers and am learning to work on live projects.
 - 💻 I’m currently learning everything that will make me the best computer engineer.
-- ⚽ I am also a footballer(Pro).
+- ⚽ Pro football player.
 
-## Education
+## Education📖
 ### Sinhgad Institute of Technology and Science
 Pursuing Bachelors Degree in Computers.(TE)
 
@@ -29,12 +29,9 @@ Completed Diploma in Information Technology with an aggregate score 91.13%
 
 [<img align="left" alt="javascript" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][javascript]
 
-
 [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 
 [<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][MySQL]
-
-[<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDB]
 
 [<img align="left" alt="Git" width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
 
@@ -47,24 +44,23 @@ Completed Diploma in Information Technology with an aggregate score 91.13%
 </br>
 
 
-## Projects
+## Projects💿📀
 ### SfolyWeb
 A homepage of a Olympiad exam website
 [sfolyWeb](https://github.com/Salman100801/sfolyWeb.git)<br><br>
-<img align="left" alt="sfolyWeb | Screenshot 1" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(28).png" />
-<img align="left" alt="sfolyWeb | Screenshot 2" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(29).png" />
-<img align="left" alt="sfolyWeb | Screenshot 3" width="150px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(30).png" /><br><br><br><br>
+<img align="left" alt="sfolyWeb | Screenshot 1" width="350px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(28).png" />
+<img align="left" alt="sfolyWeb | Screenshot 2" width="350px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(29).png" />
+<br><br><br><br><br><br><br><br>
+---
 
-
-## Hobbies
+## Hobbies🤹‍♀️
 - Learning new things in free time
 - Playing football
 - Hanging out with friends
 
 
-## 📫 You can reach me on
+## Connect with me on📡
 [<img align="left" alt="Salman100801 | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [<img align="left" alt="Salman100801 | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [c++]: https://www.w3schools.com/CPP/default.asp
@@ -75,7 +71,6 @@ A homepage of a Olympiad exam website
 [Terminal]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 [GitHub]: https://github.com/Salman100801/
 [Git]: https://git-scm.com/
-[MongoDB]: https://www.mongodb.com/
 [MySQL]: https://www.mysql.com/
 [SQL]: https://www.mysql.com/
 [Java]: https://www.javascript.com/
