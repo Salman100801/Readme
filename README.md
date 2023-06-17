@@ -43,16 +43,6 @@ Completed Diploma in Information Technology with an aggregate score 91.13%
 <br>
 </br>
 
-
-## Projects💿📀
-### SfolyWeb
-A homepage of a Olympiad exam website
-[sfolyWeb](https://github.com/Salman100801/sfolyWeb.git)<br><br>
-<img align="left" alt="sfolyWeb | Screenshot 1" width="350px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(28).png" />
-<img align="left" alt="sfolyWeb | Screenshot 2" width="350px" src="https://raw.githubusercontent.com/Salman100801/Readme/master/Images/Screenshot%20(29).png" />
-<br><br><br><br><br><br><br><br>
----
-
 ## Hobbies🤹‍♀️
 - Learning new things in free time
 - Playing football
@@ -79,6 +69,7 @@ A homepage of a Olympiad exam website
 [android]: https://developer.android.com/studio
 [c]: https://www.javatpoint.com/c-programming-language-tutorial
 [oracle]: https://www.oracle.com/in/index.html
+[Salesforce]: https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg
 
 <!---
 Salman100801/Salman100801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
