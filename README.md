@@ -13,6 +13,8 @@ Completed Diploma in Information Technology with an aggregate score 91.13%
 
 
 ## Languages and Tools
+[<img align="left" alt="Salesforce" width="32px" src="https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" />][Salesforce]
+
 [<img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 
 [<img align="left" alt="c++" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][c++]
@@ -69,7 +71,7 @@ Completed Diploma in Information Technology with an aggregate score 91.13%
 [android]: https://developer.android.com/studio
 [c]: https://www.javatpoint.com/c-programming-language-tutorial
 [oracle]: https://www.oracle.com/in/index.html
-[Salesforce]: https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg
+[Salesforce]: https://www.salesforce.com/in/
 
 <!---
 Salman100801/Salman100801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
